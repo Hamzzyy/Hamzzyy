@@ -38,13 +38,13 @@
 
 <p>
  <!-- <img align="right" width="350" src="./assets/animation.gif" alt="Coding man Hamza" /> -->
-🔭 &emsp; I am currently working on : Improving cloud-based solutions and implementing microservices architecture.<br/><br/>
+🔭 &emsp; I am currently working on Improving cloud-based solutions and implementing microservices architecture.<br/><br/>
 👯 &emsp; I am looking for a <code style="color:#9DAAF2">Frontend Developer</code>.<br/><br/>
 ✌️ &emsp; Enjoy to do <code style="color:#9DAAF2">Programming</code> and <code style="color:#9DAAF2">Sharing Knowledge</code> <br/><br/>
 ❤️ &emsp; I’m currently learning <code style="color:#9DAAF2">Next.js</code> and <code style="color:#9DAAF2">GraphQL</code><br/><br/>
-📧 &emsp; Reach me anytime:<a style="color:#9DAAF2" href="mailto=hamzarehmandev@gmail.com"> hamzarehmandev@gmail.com</a><br/><br/>
+📧 &emsp; Reach me anytime:<a style="color:#9DAAF2" href="mailto:hamzarehmandev@gmail.com"> hamzarehmandev@gmail.com</a><br/><br/>
 <!-- 💬 &emsp; Ask me about anything <a style="color:#9DAAF2" href="https://github.com/Hamzzyy/Hamzzyy/issues">here</a><br/><br/> -->
-💬 &emsp; Ask me about:  Laravel, Python, JavaScript, Vuejs, React, Nextjs, Node.js, AWS, and any general software development questions.
+💬 &emsp; Ask me about Laravel, Python, JavaScript, Vuejs, React, Nextjs, Node.js, AWS, and any general software development questions.
 
 </p>
 
