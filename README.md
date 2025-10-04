@@ -15,7 +15,7 @@
 
 
 <p align="center">
- <a href="https://hamzzyy.vercel.app/" target="blank">
+ <a href="https://hamzarehman.dev/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white&bgColor=" alt="Hamzzyy" />
  </a>
  <a href="https://www.linkedin.com/in/hamzarehman2/" target="_blank">
@@ -42,7 +42,7 @@
 👯 &emsp; I am looking for a <code style="color:#9DAAF2">Frontend Developer</code>.<br/><br/>
 ✌️ &emsp; Enjoy to do <code style="color:#9DAAF2">Programming</code> and <code style="color:#9DAAF2">Sharing Knowledge</code> <br/><br/>
 ❤️ &emsp; I’m currently learning <code style="color:#9DAAF2">Next.js</code> and <code style="color:#9DAAF2">GraphQL</code><br/><br/>
-📧 &emsp; Reach me anytime:<a style="color:#9DAAF2" href="mailto:hamzarehmandev@gmail.com"> hamzarehmandev@gmail.com</a><br/><br/>
+📧 &emsp; Reach me anytime:<a style="color:#9DAAF2" href="mailto:hello@hamzarehman.dev"> hello@hamzarehman.dev</a><br/><br/>
 <!-- 💬 &emsp; Ask me about anything <a style="color:#9DAAF2" href="https://github.com/Hamzzyy/Hamzzyy/issues">here</a><br/><br/> -->
 💬 &emsp; Ask me about Laravel, Python, JavaScript, Vuejs, React, Nextjs, Node.js, AWS, and any general software development questions.
 
